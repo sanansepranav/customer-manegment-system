@@ -1,7 +1,7 @@
 # Hi 👋 I'm Pranav Sananse
 
 🎓 Computer Engineering Student | Aspiring Full-Stack Developer  
-💻 Passionate about Web Development, IoT, and Cybersecurity  
+💻 Passionate about Web Development, front end developer 
 🚀 Actively learning new technologies and building projects
 
 ---
@@ -62,12 +62,6 @@ and improving my problem-solving skills.
 - CRUD web application to manage customer data  
 - Backend logic with database integration  
 🔗 https://github.com/sanansepranav/customer-manegment-system
-
----
-
-## 📊 GitHub Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanansepranav&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanansepranav&layout=compact)
 
 ---
 
